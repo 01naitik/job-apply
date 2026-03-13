@@ -4,16 +4,16 @@
 # ============================================================
 
 # --- YOUR LOGIN CREDENTIALS ---
-LINKEDIN_EMAIL = "naitikpatel1312@egmail.com"
-LINKEDIN_PASSWORD = "Naitik@linkedin01"
+LINKEDIN_EMAIL = "YOUR MAIL HERE"
+LINKEDIN_PASSWORD = "YOUR PASSWORD HERE"
 
-STEPSTONE_EMAIL = "naitikpatel1312@gmail.com"
-STEPSTONE_PASSWORD = "Naitik@stepstone01"
+STEPSTONE_EMAIL = "YOUR MAIL HERE"
+STEPSTONE_PASSWORD = "YOUR PASSWORD HERE"
 
 # --- YOUR PERSONAL INFO (used to fill application forms) ---
-FIRST_NAME = "Naitik"
-LAST_NAME  = "Patel"
-PHONE      = "+49 15511443887"   # include country code
+FIRST_NAME = "XXXX"
+LAST_NAME  = "XXXX"
+PHONE      = "+49 1XXXXXXXXX"   # include country code
 CITY       = "Berlin"             # or your city
 COUNTRY    = "Germany"
 
