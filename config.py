@@ -20,7 +20,7 @@ COUNTRY    = "Germany"
 # --- YOUR CV / RESUME ---
 # Full path to your CV file on your Mac, e.g.:
 # "/Users/yourname/Documents/CV_John_Doe.pdf"
-CV_PATH = "/Users/naitik/Downloads/CV (2026).pdf"
+CV_PATH = "/Users/USERNAME/Downloads/CV.pdf"
 
 # --- JOB SEARCH SETTINGS ---
 JOB_TITLE    = "Frontend Developer"
